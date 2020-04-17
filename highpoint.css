@@ -2984,3 +2984,7 @@ body {
 .jss186 {
     background-color: #e0812e !important;
 }
+
+:root, html, body, .MuiTypography-h1, .MuiTypography-h2, .MuiTypography-h3, .MuiTypography-h4, .MuiTypography-body1 {
+    font-family: Roboto,Arial,sans-serif !important;
+}
